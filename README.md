@@ -4,11 +4,11 @@
 
 万能识别，不区分任何棋盘任何棋子
 
-##支持棋盘
+##支持电脑版棋盘、app版象棋
 天天象棋、中游象棋、联众象棋、弈天象棋、JJ象棋、QQ象棋、中国象棋
 
 ## 标价
-rmb: 1000 使用问题请提 issues 采购请加：QQ: 455255111
+rmb: 1000 使用问题请提 issues 如需可在issues中提交你的联系方式
 
 ## 天天象棋原图
 ![output](https://user-images.githubusercontent.com/10823306/222218139-2329801c-4d9f-40a6-b2d9-511d2bdc3bd9.png)
