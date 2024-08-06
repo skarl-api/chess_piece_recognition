@@ -11,7 +11,7 @@
 天天象棋、中游象棋、联众象棋、弈天象棋、JJ象棋、QQ象棋、中国象棋
 
 ## 标价
-rmb: 2000 使用问题请提 issues 如需可在issues中提交你的联系方式
+如需可在issues中根据联系方式进行沟通
 
 ## 天天象棋原图
 ![output](https://user-images.githubusercontent.com/10823306/222218139-2329801c-4d9f-40a6-b2d9-511d2bdc3bd9.png)
